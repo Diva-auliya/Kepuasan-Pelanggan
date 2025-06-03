@@ -1,0 +1,5 @@
+steamlit
+pandas
+seaborn
+sklearn
+matplotib
