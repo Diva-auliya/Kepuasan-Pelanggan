@@ -10,7 +10,7 @@ Original file is located at
 # Install Streamlit
 
 # Simpan kode berikut ke file bernama app.py
-#code = """
+code = """
 import streamlit as st
 import pandas as pd
 import seaborn as sns
