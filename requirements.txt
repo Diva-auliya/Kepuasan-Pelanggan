@@ -1,4 +1,4 @@
-steamlit
+streamlit
 pandas
 seaborn
 sklearn
